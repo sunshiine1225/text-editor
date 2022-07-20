@@ -1,3 +1,3 @@
 # Text Editor
-A simple text editor using c.
+A simple text editor using C.
 
